@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\__Scripts\WordGame.cs">
+    <Files>
+      <File FileName="Assets\__Scripts\WordList.cs" Line="27" Column="18" />
+      <File FileName="Assets\__Scripts\WordGame.cs" Line="149" Column="67" />
+      <File FileName="Assets\__Scripts\WordLevel.cs" Line="16" Column="21" />
+      <File FileName="Assets\__Scripts\Letter.cs" Line="88" Column="36" />
+      <File FileName="Assets\__Scripts\Wyrd.cs" Line="37" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
